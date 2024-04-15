@@ -1,0 +1,6 @@
+framework module Pods_SplashList {
+  umbrella header "Pods-SplashList-umbrella.h"
+
+  export *
+  module * { export * }
+}
